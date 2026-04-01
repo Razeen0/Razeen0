@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Mohamed Razeen! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=CS+%7C+Cyber+Security+Student;Full-Stack+Developer;Bug+Bounty+Hunter;Always+learning+%26+building..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=CS+%7C+Cyber+Security+Student;Cyber+Security+Enthusiast;Bug+Bounty+Hunter;Always+learning+%26+building..." alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@ I enjoy building secure web applications and exploring real-world vulnerabilitie
 - 🌍 Based in **Coimbatore, Tamil Nadu**
 - 🔐 Passionate about **Web Application Security** & **Bug Bounty Hunting**
 - 🌱 Currently learning **Advanced Web Security & REST APIs**
-- 📫 Reach me at **mohdrazeen885@gmail.com**
+- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e18c8e898593809b84848fd9d9d4a1868c80888dcf828e8c">[email&#160;protected]</a>**
 
 ---
 
@@ -111,14 +111,8 @@ I enjoy building secure web applications and exploring real-world vulnerabilitie
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:mohdrazeen885@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#7c111314180e1d061919124444493c1b111d1510521f1311">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Razeen0">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">⭐ <i>Always learning, building, and securing systems...</i> ⭐</p>
+    <img src="https://img.shields.io/badge/
