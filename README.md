@@ -23,7 +23,6 @@ I enjoy building secure web applications and exploring real-world vulnerabilitie
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -111,8 +110,17 @@ I enjoy building secure web applications and exploring real-world vulnerabilitie
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="/cdn-cgi/l/email-protection#7c111314180e1d061919124444493c1b111d1510521f1311">
+  <a href="mailto:mohdrazeen885@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Razeen0">
-    <img src="https://img.shields.io/badge/
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://bugcrowd.com/h/razeee">
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ <i>Always learning, building, and securing systems...</i> ⭐</p>
